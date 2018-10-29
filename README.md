@@ -13,6 +13,13 @@ When I've run the nmap on them,
 
 # When I tried to download the json file, the output was:
 
+![screenshot 5](https://user-images.githubusercontent.com/17356647/47682710-4cd15080-db9b-11e8-8c33-203c0813866d.png)
+
+All my implementation was right, I could see the attacks but they werent getting saved in the json file. 
+
+But when I got to look at the results from my partner, I've observed that the attacks are very quick and from different pats of the world
+
+
 
 
 
