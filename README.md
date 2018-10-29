@@ -27,6 +27,8 @@ But when I got to look at the results from my partner, I've observed that the at
 
 All my implementation was as mentioned in the CodePath resources page. I've tried to debug the error and failed to do it. There weren't any resources on the Internet to help with that error. So I hope you recognize my effort and hardwork and excuse me.
 
+The .json file I've uploaded belongs to me and it is empty. 
+
 
 
 
